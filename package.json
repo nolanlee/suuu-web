@@ -14,7 +14,7 @@
     "axios": "0.19.2",
     "element-ui": "2.13.0",
     "handsontable": "5.0.0",
-    "nodemailer": "4.6.7",
+    "nodemailer": "6.9.8",
     "vue": "^2.6.11",
     "vue-router": "3.1.6"
   },
